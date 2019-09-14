@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<compaction>
+	<factors>		
+        <factor percent="25" filltypes="WHEAT BARLEY" />
+        <factor percent="50" filltypes="OAT SOYBEAN" />
+        <factor percent="75" filltypes="MAIZE SUNFLOWER" />
+	</factors>
+</compaction>

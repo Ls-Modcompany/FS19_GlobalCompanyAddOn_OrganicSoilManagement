@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<globalCompany>	
+    <specializations>
+        <registerSpecializations>
+            <specialization name="gcAddOnSoilCompaction" className="Gc_Spec_SoilCompaction" filename="Spec_SoilCompaction.lua" />
+        </registerSpecializations>
+    </specializations>
+</globalCompany>

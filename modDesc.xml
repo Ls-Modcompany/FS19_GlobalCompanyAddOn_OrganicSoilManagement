@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no" ?>
+<modDesc descVersion="44">
+    <author>LS-Modcompany</author>
+    <version>1.0.0.0</version>
+	
+    <title>
+		<en>GlobalCompany Addon SoilCultivation</en>
+    </title>
+	
+	<description>
+		<en><![CDATA[Beschreibung]]></en>
+		<de><![CDATA[Beschreibung]]></de>
+	</description>	
+	
+	<iconFilename>GC_AddOnSoilCultivation.dds</iconFilename>
+	<multiplayer supported="true"/>
+
+    <globalCompany minimumVersion="1.0.0.0">
+        <customClasses>
+            <customClass name="GC_SoilCultivation"/>
+        </customClasses>
+    </globalCompany>
+		
+    <extraSourceFiles>
+        <sourceFile filename="GC_Checker.lua" />
+        <sourceFile filename="misc/GC_SoilCultivation.lua" />
+    </extraSourceFiles>
+
+    <l10n>		
+		<text name="input_GC_ORGANICSOILMANAGEMENT"><en>Organic- and Soilmanagement</en><de>Bio- und Bodenmanagement</de></text>
+	</l10n>		
+	
+	<actions>
+        <action name="GC_ORGANICSOILMANAGEMENT" />
+    </actions>
+
+    <inputBinding>  
+        <actionBinding action="GC_ORGANICSOILMANAGEMENT">
+            <binding device="KB_MOUSE_DEFAULT" input="KEY_lctrl KEY_g" axisComponent="+" neutralInput="0" index="1"/>
+        </actionBinding>
+    </inputBinding>
+</modDesc>

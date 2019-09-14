@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<l10n>
+	<elements>
+		<e k="GlobalCompanyAddOn_SoilCultivation_Compaction_FieldInfo_compaction" v="Bodenverdichtung"/>			
+		<e k="GlobalCompanyAddOn_SoilCultivation_Compaction_FieldInfo_sowingCompaction" v="Aussaatverdichtung"/>			
+		<e k="GlobalCompanyAddOn_SoilCultivation_Compaction_FieldInfo_nextCompaction1" v="Nächste Bearbeitung"/>			
+		<e k="GlobalCompanyAddOn_SoilCultivation_Compaction_FieldInfo_nextCompaction2" v="Nächste Bearbeitung in"/>			
+		<e k="GlobalCompanyAddOn_SoilCultivation_Compaction_FieldInfo_nextCompactionNow" v="Jetzt"/>	
+
+		<e k="GlobalCompanyAddOn_SoilCultivation_unit_hour" v="Stunde"/>			
+		<e k="GlobalCompanyAddOn_SoilCultivation_unit_hours" v="Stunden"/>			
+
+
+
+
+		<!-- AnimalShop -->
+		<!-- <e k="GC_animalShop_openGui" v="Tiershop öffnen"/>
+		<e k="GC_animalShop_page_1" v="Shop"/>
+		<e k="GC_animalShop_page_2_1" v="Kühe"/>
+		<e k="GC_animalShop_page_2_2" v="Schafe"/>
+		<e k="GC_animalShop_page_2_3" v="Schweine"/>
+		<e k="GC_animalShop_page_2_4" v="Pferde"/> -->
+
+
+	</elements>
+</l10n>
